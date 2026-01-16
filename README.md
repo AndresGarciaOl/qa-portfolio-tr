@@ -30,7 +30,7 @@ Vengo de un entorno técnico-operativo, lo que me permitió desarrollar atenció
 Busco mi primera oportunidad como QA Junior o QA Manual, en equipos donde la calidad, la documentación y el trabajo colaborativo sean parte central del proceso de desarrollo.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/andresfelipe-garciaqa) 
+[Linkedin: AndresFelipe-GarciaQA](https://www.linkedin.com/in/andresfelipe-garciaqa/) 
 
 ## 🛠️ Tech Stack
 
@@ -105,7 +105,7 @@ Postman · API Testing · Test Cases · JIRA · JSON · Swagger
 
 ## 📄 CV
 
-[MI CV](https://drive.google.com/file/d/1zH4-KVTZ4K6fO1dlNpeLrr74PBy4aN2X/view?usp=drive_link)
+[MI CV](https://drive.google.com/file/d/1pqzBUeBAFLPnSCiS80jSo69wkRMMhIin/view?usp=drive_link)
 
 ---
 

@@ -1,5 +1,5 @@
 
-![tester(1)](https://github.com/user-attachments/assets/368d3250-3a36-4de1-8143-04dffa1e5779)
+![tester(1)]()
 
 
 # 👋 ¡Hola, soy Andres Garcia!
@@ -104,7 +104,7 @@ Postman · API Testing · Test Cases · JIRA · JSON · Swagger
 
 ## 📄 CV
 
-[![MI CV](https://drive.google.com/file/d/1zH4-KVTZ4K6fO1dlNpeLrr74PBy4aN2X/view?usp=drive_link)
+[MI CV](https://drive.google.com/file/d/1zH4-KVTZ4K6fO1dlNpeLrr74PBy4aN2X/view?usp=drive_link)
 
 ---
 
@@ -119,6 +119,7 @@ Me interesa colaborar con empresas tecnológicas, startups o consultoras TI que 
   ✨ Conversemos. Estoy listo para aportar valor y crecer junto al equipo.
 
 💼 Perfil profesional: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/andresfelipe-garciaqa) 
+
 ✉️ Contacto: Andres_Garcia_Ol@outlook.com
 
 

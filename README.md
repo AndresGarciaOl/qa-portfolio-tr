@@ -1,6 +1,7 @@
 
-![tester(1)]()
-
+<p align="center">
+  <img src="assets/ChatGPT Image 14 ene 2026, 04_32_56 p.m..png" width="70%">
+</p>
 
 # 👋 ¡Hola, soy Andres Garcia!
 

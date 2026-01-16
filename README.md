@@ -80,6 +80,7 @@ Test cases · Checklists · JIRA  · Chrome DevTools
 
 📎 **Documentación QA (Test Cases, Checklists, Bug Reports)** : [Repositorio](https://docs.google.com/spreadsheets/d/1rD0-1aE71jzFUAzBDjh4qIhvudlUYeWI/edit?usp=sharing&ouid=103893641064440557891&rtpof=true&sd=true)
 
+ - Proyectos académicos desarrollados en un entorno de simulación profesional, enfocados en la aplicación práctica de testing manual, automatización y aseguramiento de calidad de software.
 ---
 
 ### 🛒 Urban.Grocers — Testing de API *(Aplicación web para compra de comestibles)*
@@ -101,6 +102,7 @@ Postman · API Testing · Test Cases · JIRA · JSON · Swagger
 
 📎 **Documentación QA (Test Cases, Checklists, Bug Reports)** : [Repositorio](https://docs.google.com/spreadsheets/d/1HTFlg88oF2py4_IOywSYvFnRTNlzBEu0i4oJk6mwLHE/edit?usp=sharing)
 
+ - Proyectos académicos desarrollados en un entorno de simulación profesional, enfocados en la aplicación práctica de testing manual, automatización y aseguramiento de calidad de software.
 ---
 
 ## 📄 CV

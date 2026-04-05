@@ -107,7 +107,7 @@ Postman · API Testing · Test Cases · JIRA · JSON · Swagger
 
 ## 📄 CV
 
-[MI CV](https://drive.google.com/file/d/1pqzBUeBAFLPnSCiS80jSo69wkRMMhIin/view?usp=drive_link)
+[MI CV](https://drive.google.com/file/d/1RyM1NKkG-YylFwDgK_l6ClSNgdfdZoiZ/view?usp=sharing)
 
 ---
 
